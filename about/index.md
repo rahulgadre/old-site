@@ -15,7 +15,7 @@ Prior to joining Avaya, I worked as a Network Engineering Intern at NRG Energy a
 Before coming to the US, I worked as a System Administrator at HSBC Software India Pvt. Ltd where I worked on a security related project dealing with electronic communication surveillance.
 I received a B.E in Electronics Engineering from University of Mumbai and a Masters in Networking and System Administration with a 4.0 GPA from Rochester Institute of Technology .
 
-### Honors & Awards
+### Honors & Awards:
 
 #### Graduate Assistantship Scholarship Award – August 2015
 Description: Received full Graduate Assistantship from the department of Information Sciences and Technologies at RIT starting from August 2015
