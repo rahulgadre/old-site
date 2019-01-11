@@ -8,7 +8,7 @@ tag:
 comments: true
 ---
 
-he latest version of Ansible (2.5) now supports Infoblox modules. Here are the modules, which have now been added:
+Ansible 2.5 now supports Infoblox modules. Here are the modules, which have now been added:
 
 nios_host_record – configure host records
 nios_network – configure networking objects
