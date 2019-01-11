@@ -5,7 +5,7 @@ description:        "Ansible, AWS, Docker 🐳"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/me2.png'
-background:         'assets/img/lollipop-wallpaper-3.jpg'
+background:         'assets/img/lolly.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://rahulgadre.github.io
