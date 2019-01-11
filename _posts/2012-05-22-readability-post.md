@@ -36,7 +36,7 @@ Important Docker commands:
 
 #### LEGACY COMMANDS:
 
-- LEGACY: Remove the specified image from this machine: docker rmi <imagename>
-- LEGACY:Remove all images from this machine: docker rmi $(docker images -q)
-- LEGACY: Remove all images with dependencies: docker images -q | xargs docker rmi –f
+- LEGACY: Remove the specified image from this machine: `docker rmi <imagename>`
+- LEGACY:Remove all images from this machine: `docker rmi $(docker images -q)`
+- LEGACY: Remove all images with dependencies: `docker images -q | xargs docker rmi –f`
 
