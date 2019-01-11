@@ -6,7 +6,6 @@ date: 2018-01-10
 comments: false
 ---
 
-# Overview
 
 I am a Senior Systems Engineer and currently work at Avaya. I am part of the ACP 100 and 4200 product design and development R&D team. I have been actively involved in designing, testing, and deployment of Avaya’s ACP products.
 Prior to my new role, I used to manage Avaya’s Highlands Ranch data center. My expertise include data center administration, DevOps and automation, and cloud computing. I enjoy working on DevOps, cloud computing and Automation. I also recently earned my first AWS certification.
