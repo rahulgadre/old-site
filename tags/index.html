@@ -5,6 +5,7 @@ description: "An archive of posts sorted by tag."
 comments: false
 ---
 
+<!--
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 {% assign tags_list = site_tags | split:',' | sort %}
 
@@ -25,4 +26,4 @@ comments: false
     {% endif %}{% endfor %}
 		</ul>
 	</article><!-- /.hentry -->
-{% endunless %}{% endfor %}
+{% endunless %}{% endfor %} 
