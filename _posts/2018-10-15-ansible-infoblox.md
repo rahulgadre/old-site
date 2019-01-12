@@ -30,7 +30,7 @@ Once you have Infoblox-client and Ansible 2.5 installed on the control node then
 At this point, you should be ready to write your first playbook to update DNS entries using Ansible.
 
 Here’s an example of a working playbook which I wrote to update DNS entries:
-```
+``` yml
 ---
 - name: Updating Infoblox using Ansible
   hosts: localhost
