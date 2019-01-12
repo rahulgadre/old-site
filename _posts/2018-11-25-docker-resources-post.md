@@ -22,5 +22,5 @@ This post is about the resources that I would recommend based on my experience.
 
 I highly recommend this Docker 101 series from Virginia Tech if you want to get a mile wide knowledge of Docker. It's a 4 part video series which covers the basics of Docker, contains demos, and quickly discusses some high level topics. This series good to get started. Here's the link to the webpage which contains all 4 parts of the series. 
 
-<iframe width="560" height="315" src="https://devcom.it.vt.edu/training/docker-101-series" frameborder="0"> </iframe>
+(https://devcom.it.vt.edu/training/docker-101-series)
 
