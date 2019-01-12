@@ -20,14 +20,14 @@ This post is about the resources that I would recommend based on my experience.
 
 ### Docker 101 Series
 
-I highly recommend this Docker 101 series from Virginia Tech if you want to get a mile wide knowledge of Docker. It's a 4 part video series which covers the basics of Docker, contains demos, and quickly discusses some high level topics. This series good to get started. Here's the link to the webpage which contains all 4 parts of the series. 
+I highly recommend this Docker 101 series from Virginia Tech if you want to get a mile wide knowledge of Docker. It's a 4 part video series which covers the basics of Docker, contains demos, and quickly discusses some high level topics. This is a good series to get started. Here's the link to the webpage which contains all 4 parts of the series. 
 
 [Docker 101 Series](https://devcom.it.vt.edu/training/docker-101-series)
 
 ### Docker Mastery Course on Udemy
 
 This is a fantastic course to get started with Docker. Taught by a Docker captain Bret Fisher who clearly knows how to teach.
-The course price was $10 when I signed up but that may vary. Once you complete this course, you will have a clear understanding of how Docker works. Bret starts off this course assuming that you know nothing about Docker and then builds on top of that. One particular thing that I liked about the course was the way Bret designed the assignments in the course. Almost all the course assignments make you do your own research and don't give you answers right away. Check this course out. I am sure you won't regret it. Here's the link to the course on Udemy.
+The course price was $ 10 when I signed up but that may vary. Once you complete this course, you will have a clear understanding of how Docker works. Bret starts off this course assuming that you know nothing about Docker and then builds on top of that. One particular thing that I liked about the course was the way Bret designed the assignments in the course. Almost all the course assignments make you do your own research and don't give you answers right away. Check this course out. I am sure you won't regret it. Here's the link to the course on Udemy.
 
 [Docker Mastery](https://www.udemy.com/docker-mastery)
 
