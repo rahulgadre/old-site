@@ -19,15 +19,20 @@ I decided to design and deploy this setup in our working environment to update D
 
 I would recommend to have a CentOS 7 or above system as the base level OS for this setup.
 Next, install Ansible using “yum install ansible” command and make sure that you have Ansible 2.5 installed on your control node.
+
 If the 2.5 version doesn’t get installed (happened in my case) then manually install Ansible 2.5.
 Next, make sure that pip and all the required python dev tools are installed. If not, install them using the “yum install python-devel” command.
+
 Once all the required tools and pip have been installed, install the Infoblox client on the control node using the following command “pip install infoblox-client”.
+
 Once you have Infoblox-client and Ansible 2.5 installed on the control node then you should have a working setup to play with the Infoblox modules for Ansible.
+
 At this point, you should be ready to write your first playbook to update DNS entries using Ansible.
+
 Here’s an example of a working playbook which I wrote to update DNS entries:
 ```
 ---
-– name: Updating Infoblox using Ansible
+- name: Updating Infoblox using Ansible
   hosts: localhost
   connection: local
   gather_facts: no
