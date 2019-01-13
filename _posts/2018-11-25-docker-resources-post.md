@@ -9,7 +9,7 @@ tag:
 comments: true
 ---
 
-So you want to get started with Docker 🐳. Good choice, but it's important to have right resources to get started with Docker. 
+So you want to get started with Docker 🐳. Good choice, but it's important to have the right resources to get started with Docker. 
 This post is about the resources that I would recommend based on my experience. 
 
 - Docker 101 Series, DevCom --- Virginia Tech Video Series
