@@ -39,7 +39,7 @@ If you don't have a local environment setup or if you don't to set one up :) the
 
 ### DockerCon Videos
 
-This can be a good resource to learn some advnaced concepts of Docker. In my opinion, these videos will be helpful only if you have the basic knowledge of Docker. Most of the videos that I watched talked about some advanced topics in Docker and you may not get everything unless you know the basics or use Docker on a daily basis.
+This can be a good resource to learn some advanced concepts of Docker. In my opinion, these videos will be helpful only if you have the basic knowledge of Docker. Most of the videos that I watched talked about some advanced topics in Docker and you may not get everything unless you know the basics or use Docker on a daily basis.
 
 ### Local meetup group
 
