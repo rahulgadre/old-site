@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Docker🐋-Ansible-AWS"
+title: "Docker-Ansible-AWS"
 date: 2019-01-30
 feature: /assets/img/aws-docker-ansible.png
 excerpt: "Deploying Docker containers using Ansible on AWS"
@@ -8,7 +8,7 @@ tags: [post]
 comments: true
 ---
 
-As I have been regularly using Docker 🐋, Ansible, and AWS, I wanted to use all 3 technologies together. Multiple Docker containers can be deployed using Docker compose. However, the Docker Ansible modules also let you deploy multiple containers using a playbook. I wanted to try it so I deployed Docker containers using Ansible on AWS. The example written below uses 2 Docker containers (drupal & postgres) deployed on an EC2 container which has Ansible running on it.  
+As I have been regularly using Docker 🐋, Ansible, and AWS, I wanted to use all 3 technologies together. Multiple Docker containers can be deployed using Docker compose. However, the Docker Ansible modules also let you deploy multiple containers using a playbook. I wanted to try it so I deployed Docker containers using Ansible on AWS. The example written below contains 2 Docker containers (drupal & postgres) deployed on an EC2 container which has Ansible running on it.  
 
 #### Ansible Playbook:
 ``` yml
