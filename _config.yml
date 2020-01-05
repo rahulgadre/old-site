@@ -4,7 +4,7 @@ bio:                'Senior Systems Engineer, Cloud Solutions'
 description:        "Cloud, Configuration Management, DevOps 🐳"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/me2.png'
+logo:               'assets/img/newme.png'
 background:         'assets/img/lolly.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
