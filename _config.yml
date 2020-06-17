@@ -5,7 +5,7 @@ description:        "Senior Systems Engineer, Cloud Solutions"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/newme.jpg'
-background:         'assets/img/study.JPG'
+background:         'assets/img/Squares.jpg'
 tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://rahulgadre.github.io
